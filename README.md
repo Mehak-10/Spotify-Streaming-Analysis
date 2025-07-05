@@ -87,5 +87,5 @@ This dashboard helps users explore how streaming habits evolve and what musical 
 
 🙋‍♀ Author
 Mehak – Data Analyst | Power BI Enthusiast
-🔗 LinkedIn
+🔗 www.linkedin.com/in/mehak-gg
 ✉ missmehak2341@gmail.com
